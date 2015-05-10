@@ -18,3 +18,5 @@ This is the order:
   Same as above, but you can reset to the lowest setting by pushign the button
 7. chaos
   Chaotic pendulum, with Runge-Kutta solver 
+
+For more information see the blog at http://www.orgasmatronics.com/blogs/blog
